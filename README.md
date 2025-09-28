@@ -24,21 +24,21 @@
 
 **Nivel España**
 
-![C# en España](images/c#_españa.png)
+![C# en España](images/c_españa.png)
 
 **Nivel Mundial**
 
-![C# Mundial](images/c#_mundo.png)
+![C# Mundial](images/c_mundo.png)
 
 ## C y C++
 
 **Nivel España**
 
-![C en España](images/C_españa.png)
+![C en España](images/C+_españa.png)
 
 **Nivel Mundial**
 
-![C Mundial](images/C_mundo.png)
+![C Mundial](images/C+_mundo.png)
 
 ## JavaScript
 
