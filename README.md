@@ -81,7 +81,18 @@
 ![Ruby Mundial](images/ruby_mundo.png)
 
 
+## Clasificación de lenguajes
 
+| Lenguaje       | Ofertas en España | Ofertas Mundiales |
+|----------------|-------------------|-------------------|
+| Java           | 600               | 10000             |
+| C              | 500               | 5000              |
+| Python         | 400               | 4000              |
+| JavaScript     | 200               | 4000              |
+| C#             | 200               | 4000              |
+| PHP            | 300               | 3000              |
+| VB .NET        | 300               | 3000              |
+| Ruby           | 200               | 3000              |
 
 
 
